@@ -15,6 +15,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 ## Design
 |  |
@@ -64,6 +65,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
 |  |
