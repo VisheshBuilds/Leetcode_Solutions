@@ -30,6 +30,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Stack
 |  |
 | ------- |
