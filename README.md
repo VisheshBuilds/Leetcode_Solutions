@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0239-sliding-window-maximum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -11,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Linked List
