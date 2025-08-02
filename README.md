@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -77,4 +78,16 @@
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
