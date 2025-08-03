@@ -13,6 +13,7 @@ class Solution {
     }
     public void nthlevel(TreeNode root,int level,int req,List<Integer> arr){
        if(root==null) return;
+       if(level>req) return;
        if(level==req) arr.add(root.val);
        nthlevel(root.left,level+1,req,arr);
        nthlevel(root.right,level+1,req,arr);
