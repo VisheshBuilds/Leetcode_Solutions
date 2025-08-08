@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Linked List
@@ -35,6 +36,7 @@
 | [0020-valid-parentheses](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Stack
 |  |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -81,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Tree
