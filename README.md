@@ -68,10 +68,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
