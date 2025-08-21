@@ -40,6 +40,7 @@
 | [0257-binary-tree-paths](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Stack
 |  |
 | ------- |
