@@ -9,6 +9,7 @@
 | [0239-sliding-window-maximum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
