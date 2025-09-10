@@ -72,6 +72,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Bit Manipulation
@@ -132,6 +133,7 @@
 | [0226-invert-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0365-water-and-jug-problem](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -165,6 +167,7 @@
 | [0112-path-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
 ## Backtracking
 |  |
 | ------- |
