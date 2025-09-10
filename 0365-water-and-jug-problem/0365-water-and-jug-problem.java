@@ -6,7 +6,7 @@ class Solution {
         return false;
     }
     public int gcd(int a,int b){
-        if(b%a==0) return a;
-        return gcd(b%a,a);
+        if(b==0) return a;
+        return gcd(b,a%b);
     }
 }
