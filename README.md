@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
@@ -109,6 +111,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0112-path-sum) |
@@ -148,6 +151,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0112-path-sum) |
@@ -197,4 +201,5 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
