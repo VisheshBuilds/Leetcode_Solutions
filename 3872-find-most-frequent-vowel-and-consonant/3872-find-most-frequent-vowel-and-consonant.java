@@ -6,10 +6,12 @@ class Solution {
             char ch=s.charAt(i);
             alpha[ch-'a']++;
             if(ch=='a'||ch=='e'||ch=='o'||ch=='i'||ch=='u'){
-                if(vwl < alpha[ch-'a']) vwl=alpha[ch-'a'];
+                // if(vwl < alpha[ch-'a']) vwl=alpha[ch-'a'];
+                vwl=Math.max(vwl,alpha[ch-'a']);
             }
             else {
-                if(cnsnt<alpha[ch-'a']) cnsnt=alpha[ch-'a'];
+                // if(cnsnt<alpha[ch-'a']) cnsnt=alpha[ch-'a'];
+                cnsnt=Math.max(cnsnt,alpha[ch-'a']);
             }
         }
         return vwl+cnsnt;
