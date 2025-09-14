@@ -1,11 +1,14 @@
 class Solution {
+       public boolean k=true,p=true;
     public long max(TreeNode root){
         if(root==null) return Long.MIN_VALUE;
+        k=isvalid(root);
         long a=root.val,b=max(root.left),c=max(root.right);
         return Math.max(a,Math.max(b,c));
     }
     public long min(TreeNode root){
         if(root==null) return Long.MAX_VALUE;
+        p=isvalid(root);
         long a=root.val,b=min(root.left),c=min(root.right);
         return Math.min(a,Math.min(b,c));
     }
@@ -23,6 +26,7 @@ class Solution {
         if(root==null) return true;
         if(root.val >= min(root.right)) return false;
         if(root.val <=max(root.left)) return false;
+        if(k==false || p==false) return false;
         return  isValidBST(root.left)&& isValidBST(root.right);     
 
     }
@@ -35,7 +39,8 @@ class Solution {
         if(root.right!=null && root.val >= root.right.val){
            return false;
         }
-        return isvalid(root.left) && isvalid(root.right);
+        return true;
+        // return isvalid(root.left) && isvalid(root.right);
     }
 
     public void inorder(TreeNode root,List<Integer> arr){
