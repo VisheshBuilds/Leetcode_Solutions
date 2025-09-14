@@ -1,16 +1,18 @@
 class Solution {
-       public boolean k=true,p=true;
+       public boolean flag;
     public long max(TreeNode root){
         if(root==null) return Long.MIN_VALUE;
-        k=isvalid(root);
-        long a=root.val,b=max(root.left),c=max(root.right);
-        return Math.max(a,Math.max(b,c));
+        long a=root.val;
+        long leftmax=max(root.left),rightmax=max(root.right);
+        if(leftmax>=root.val ) flag=false;
+        return Math.max(a,Math.max(leftmax,rightmax));
     }
     public long min(TreeNode root){
         if(root==null) return Long.MAX_VALUE;
-        p=isvalid(root);
-        long a=root.val,b=min(root.left),c=min(root.right);
-        return Math.min(a,Math.min(b,c));
+        long a=root.val;
+        long leftmin=min(root.left),rightmin=min(root.right);
+        if( rightmin<=root.val) flag=false;
+        return Math.min(a,Math.min(leftmin,rightmin));
     }
     public boolean isValidBST(TreeNode root) {
                     //METHOD 1 (BRUTE FORCE SELF)
@@ -23,12 +25,10 @@ class Solution {
         // return valid;
 
                     //METHOD 2(SIR)
-        if(root==null) return true;
-        if(root.val >= min(root.right)) return false;
-        if(root.val <=max(root.left)) return false;
-        if(k==false || p==false) return false;
-        return  isValidBST(root.left)&& isValidBST(root.right);     
-
+        flag=true;
+        max(root);
+        min(root);
+        return flag;    
     }
 
     public boolean isvalid(TreeNode root){
