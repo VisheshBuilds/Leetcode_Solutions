@@ -129,6 +129,7 @@
 | [0437-path-sum-iii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -172,6 +173,7 @@
 | [0437-path-sum-iii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -227,5 +229,6 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
