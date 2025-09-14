@@ -18,6 +18,6 @@ class Solution {
         }
         if(root.val < val)  helper(root.right,val);
         if(root.val > val)  helper(root.left,val); 
-        // return;
+        return;
     } 
 }
