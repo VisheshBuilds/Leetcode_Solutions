@@ -27,6 +27,7 @@
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -50,6 +51,7 @@
 | [0257-binary-tree-paths](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
