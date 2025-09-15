@@ -141,6 +141,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,6 +238,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -259,4 +263,9 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
