@@ -13,7 +13,7 @@ class Solution {
         return ans;
     }
     public int helper(int value,int step){
-        if(value==2 || value==3) return step+1;
+        // if(value==2 || value==3) return step+1;
         if(value%3==0) return step+value/3;
         else if(value%3==2) return step+value/3+1;
         return helper(value-2,step+1);
