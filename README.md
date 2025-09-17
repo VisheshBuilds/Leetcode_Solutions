@@ -90,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
