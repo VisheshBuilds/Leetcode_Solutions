@@ -20,6 +20,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -37,6 +38,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -276,6 +278,7 @@
 | ------- |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search Tree
 |  |
