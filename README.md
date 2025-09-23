@@ -59,6 +59,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0165-compare-version-numbers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0165-compare-version-numbers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
