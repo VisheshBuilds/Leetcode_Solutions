@@ -4,11 +4,11 @@ class Solution {
         StringBuilder result=new StringBuilder();
         if ((numerator < 0) ^ (denominator < 0)) result.append("-");
 
-        long absnumerator=Math.abs((long)numerator);
-        long absdenominator=Math.abs((long)denominator);
-        result.append(absnumerator/absdenominator);
+        long absnum=Math.abs((long)numerator);
+        long absden=Math.abs((long)denominator);
+        result.append(absnum/absden);
         
-        long remain=absnumerator%absdenominator;
+        long remain=absnum%absden;
         if(remain==0) return result.toString();
         result.append(".");
         Map<Long,Integer> map=new HashMap<>();
@@ -21,8 +21,8 @@ class Solution {
             }
             map.put(remain,result.length());
             remain *=10;
-            result.append(remain/absdenominator);
-            remain = remain%absdenominator;
+            result.append(remain/absden);
+            remain = remain%absden;
         }
         return result.toString();
     }
