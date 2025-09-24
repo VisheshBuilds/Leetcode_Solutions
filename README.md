@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0166-fraction-to-recurring-decimal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -60,6 +61,7 @@
 | [0020-valid-parentheses](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
@@ -98,6 +100,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [1236-n-th-tribonacci-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
