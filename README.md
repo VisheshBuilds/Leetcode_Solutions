@@ -158,6 +158,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -219,6 +220,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -293,6 +295,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
