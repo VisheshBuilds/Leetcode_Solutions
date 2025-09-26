@@ -46,6 +46,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 ## Design
 |  |
@@ -75,6 +76,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -149,6 +151,7 @@
 | [0110-balanced-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -180,6 +183,7 @@
 | [0110-balanced-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -215,6 +219,7 @@
 | [0110-balanced-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
