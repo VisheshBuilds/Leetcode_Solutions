@@ -9,25 +9,28 @@ class Solution {
         // }
 
                 //METHOD 2(MORRIS)
-        TreeNode curr=root;
-        while(curr!=null){
-            if(curr.left!=null){
-                TreeNode pred=curr.left;
-                while(pred.right!=null){
-                    pred=pred.right;
-                }
-                if(pred.right==null){
-                    pred.right=curr.right;
-                    TreeNode n=curr.left;
-                    curr.right=curr.left;
-                    curr.left=null;
-                    curr=n;
-                }
-            }
-            else {
-                 curr=curr.right;
-            }
-        }   
+        // TreeNode curr=root;
+        // while(curr!=null){
+        //     if(curr.left!=null){
+        //         TreeNode pred=curr.left;
+        //         while(pred.right!=null){
+        //             pred=pred.right;
+        //         }
+        //         if(pred.right==null){
+        //             pred.right=curr.right;
+        //             TreeNode n=curr.left;
+        //             curr.right=curr.left;
+        //             curr.left=null;
+        //             curr=n;
+        //         }
+        //     }
+        //     else {
+        //          curr=curr.right;
+        //     }
+        // }  
+
+              //METHOD 3(RECURSIVE)
+         helper(root);
 
     }
     public void preorder(TreeNode root,List<TreeNode> list){
@@ -36,5 +39,23 @@ class Solution {
         preorder(root.left,list);
         preorder(root.right,list);
         return;
+    }
+    public void helper(TreeNode root){
+        if(root==null) return ;
+        if(root.left==null && root.right==null) return;
+        TreeNode lst=root.left;
+        TreeNode rst=root.right;
+        helper(root.left); helper(root.right);
+        root.left=null;
+        root.right=lst;
+        TreeNode temp=root;
+        if(temp.left!=null) temp.left=null;
+        while(temp.right!=null){
+            temp=temp.right;
+            temp.left=null;
+        }
+        temp.right=rst;
+        temp.left=null;
+
     }
 }
