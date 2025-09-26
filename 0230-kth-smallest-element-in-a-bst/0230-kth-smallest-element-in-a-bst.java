@@ -7,7 +7,34 @@ class Solution {
         // return arr.get(k-1);
 
              //METHOD 2(SELF)
-        return traverse(root,k);
+        // return traverse(root,k);
+
+             //METHOD 3(MORRIS TRAVERSAL)
+        TreeNode curr=root;
+        while(curr!=null){
+            if(curr.left!=null){
+                 TreeNode pred=curr.left;
+                 while(pred.right!=null && pred.right!=curr){
+                    pred=pred.right;
+                 }
+                 if(pred.right==null){
+                    pred.right=curr;
+                    curr=curr.left;
+                 }
+                 else {
+                    count++;
+                    if(count==k) return curr.val;
+                    curr=curr.right;
+                    pred.right=null;
+                 }
+            }
+            else {
+                count++;
+                if(count==k) return curr.val;
+                curr=curr.right;
+            }
+        } 
+        return -1;    
     }
     public int traverse(TreeNode root,int k){
         if(root==null) return -1;
