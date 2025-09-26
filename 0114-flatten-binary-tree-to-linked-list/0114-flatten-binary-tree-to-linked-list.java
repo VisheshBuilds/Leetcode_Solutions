@@ -49,13 +49,9 @@ class Solution {
         root.left=null;
         root.right=lst;
         TreeNode temp=root;
-        if(temp.left!=null) temp.left=null;
         while(temp.right!=null){
             temp=temp.right;
-            temp.left=null;
         }
         temp.right=rst;
-        temp.left=null;
-
     }
 }
