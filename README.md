@@ -13,6 +13,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [0830-largest-triangle-area](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -105,6 +106,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
+| [0830-largest-triangle-area](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [1236-n-th-tribonacci-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -338,4 +340,8 @@
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
