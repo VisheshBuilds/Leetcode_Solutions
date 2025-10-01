@@ -20,6 +20,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -117,6 +118,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1642-water-bottles) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3462-vowels-game-in-a-string](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -129,6 +131,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1642-water-bottles) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -359,4 +362,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
