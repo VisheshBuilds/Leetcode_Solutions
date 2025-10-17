@@ -17,6 +17,7 @@
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
+| [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [0830-largest-triangle-area](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
+| [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -151,6 +154,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
+| [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -307,6 +311,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Brainteaser
 |  |
@@ -368,6 +373,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
+| [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
 | ------- |
@@ -376,4 +382,5 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
