@@ -23,6 +23,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -44,6 +45,7 @@
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2169-simple-bank-system](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [2169-simple-bank-system](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 ## Hash Function
 |  |
 | ------- |
@@ -141,6 +144,7 @@
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
