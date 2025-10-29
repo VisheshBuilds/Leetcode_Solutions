@@ -136,12 +136,14 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
