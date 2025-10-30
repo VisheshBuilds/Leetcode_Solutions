@@ -26,19 +26,39 @@ class Solution {
         helper(root);
         return root;
     }
+    // public void helper(Node root){
+    //     //Using my method
+    //     if(root==null) return;
+    //     if(root.next !=null) {
+    //         if(root.next.val<-1000 || root.next.val>1000) root.next=null;
+    //     }
+    //     Node prev=root.left;
+    //     Node nxt=root.right;
+    //     while(prev!=null){
+    //         prev.next=nxt;
+    //         prev=prev.right;
+    //         nxt=nxt.left;
+    //     }
+    //     helper(root.left);
+    //     helper(root.right);
+    // }
     public void helper(Node root){
+        //Using queue
         if(root==null) return;
-        if(root.next !=null) {
-            if(root.next.val<-1000 || root.next.val>1000) root.next=null;
+        Queue<Node> q=new LinkedList<>();
+        q.add(root);
+        while(q.size()>0){
+            Node prev=null;
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                Node curr=q.poll();
+                if(prev!=null) prev.next=curr;
+                prev=curr;
+                if(curr.left!=null) q.add(curr.left);
+                if(curr.right!=null) q.add(curr.right);
+            }
+            prev.next=null;
         }
-        Node prev=root.left;
-        Node nxt=root.right;
-        while(prev!=null){
-            prev.next=nxt;
-            prev=prev.right;
-            nxt=nxt.left;
-        }
-        helper(root.left);
-        helper(root.right);
+        return;
     }
 }
