@@ -31,6 +31,7 @@
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -52,6 +53,7 @@
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -138,6 +140,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
