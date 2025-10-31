@@ -214,6 +214,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -248,6 +249,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -286,6 +288,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -309,6 +312,7 @@
 | [0226-invert-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0623-add-one-row-to-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Backtracking
 |  |
