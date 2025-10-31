@@ -15,6 +15,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0611-valid-triangle-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
@@ -112,11 +113,13 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
@@ -168,6 +171,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0165-compare-version-numbers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
@@ -176,6 +180,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -324,6 +329,7 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
