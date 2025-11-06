@@ -26,6 +26,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -59,6 +60,7 @@
 | [0876-hand-of-straights](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0876-hand-of-straights) |
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2169-simple-bank-system](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -202,6 +204,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Tree
@@ -415,6 +418,7 @@
 | [0876-hand-of-straights](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1285-balance-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
