@@ -249,6 +249,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
@@ -323,6 +324,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
@@ -344,6 +346,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
