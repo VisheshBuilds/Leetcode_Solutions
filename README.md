@@ -17,6 +17,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0611-valid-triangle-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
@@ -57,6 +58,7 @@
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0876-hand-of-straights) |
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
@@ -129,6 +131,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
@@ -139,6 +142,7 @@
 | [0295-find-median-from-data-stream](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1127-last-stone-weight) |
@@ -207,6 +211,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -426,6 +431,7 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1285-balance-a-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
