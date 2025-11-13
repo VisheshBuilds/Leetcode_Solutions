@@ -6,18 +6,13 @@ class Solution {
         }
         int count=0;
         for(int key:map.keySet()){
-            // int diff=Math.abs(k-key);
             if(k==0){
                 if(map.get(key)>1) count++;
             }
             else {
-            if(map.containsKey(key + k)){
-                count++;
+            if(map.containsKey(key + k)) count++;
             }
-            }
-
         }
         return count;
-
     }
 }
