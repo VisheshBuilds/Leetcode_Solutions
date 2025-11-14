@@ -38,6 +38,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
+| [2625-increment-submatrices-by-one](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -482,9 +483,11 @@
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2625-increment-submatrices-by-one](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Prefix Sum
 |  |
 | ------- |
+| [2625-increment-submatrices-by-one](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Bucket Sort
 |  |
