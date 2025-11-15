@@ -22,6 +22,7 @@
 | [0658-find-k-closest-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
+| [0835-linked-list-components](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0876-hand-of-straights) |
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -64,6 +65,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [0835-linked-list-components](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0876-hand-of-straights) |
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -86,6 +88,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0817-design-hashmap](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0817-design-hashmap) |
+| [0835-linked-list-components](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0835-linked-list-components) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
