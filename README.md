@@ -165,6 +165,7 @@
 | [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [0830-largest-triangle-area](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0830-largest-triangle-area) |
+| [1013-fibonacci-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -389,6 +390,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -454,11 +456,13 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [1013-fibonacci-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Monotonic Stack
 |  |
