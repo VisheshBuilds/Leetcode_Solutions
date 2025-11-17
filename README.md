@@ -32,6 +32,7 @@
 | [1127-last-stone-weight](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1127-last-stone-weight) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
