@@ -50,6 +50,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Linked List
 |  |
 | ------- |
