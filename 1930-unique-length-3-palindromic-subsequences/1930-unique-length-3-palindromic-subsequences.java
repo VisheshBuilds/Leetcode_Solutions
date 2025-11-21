@@ -12,6 +12,7 @@ class Solution {
         for(char ch: map1.keySet()){
             int idx1=map1.get(ch);
             int idx2=map2.get(ch);
+            if(idx1==idx2) continue;
             HashSet<Character> set=new HashSet<>();
             for(int i=idx1+1;i<idx2;i++){
                 set.add(s.charAt(i));
