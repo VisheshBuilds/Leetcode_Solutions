@@ -75,6 +75,7 @@
 | [1006-vowel-spellchecker](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2561-number-of-distinct-averages](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -121,6 +122,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -197,6 +199,7 @@
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
@@ -505,6 +508,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Bucket Sort
