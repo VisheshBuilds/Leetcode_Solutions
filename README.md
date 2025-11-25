@@ -172,6 +172,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0342-power-of-four) |
@@ -469,6 +470,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -493,6 +495,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Quickselect
 |  |
