@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0064-minimum-path-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -471,6 +472,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -506,6 +508,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2625-increment-submatrices-by-one](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Prefix Sum
