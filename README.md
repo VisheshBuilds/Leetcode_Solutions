@@ -34,6 +34,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1127-last-stone-weight) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -479,6 +480,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
@@ -509,6 +511,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2625-increment-submatrices-by-one](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Prefix Sum
