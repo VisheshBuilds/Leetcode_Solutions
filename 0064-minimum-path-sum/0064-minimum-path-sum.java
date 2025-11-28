@@ -24,7 +24,7 @@ class Solution {
         }
         return helper(m,n,0,0,dp,arr);  
     }
-    public int helper(int m,int n,int i,int j,int[][] dp,int[][] arr){
+    public int helper(Integer m,Integer n,int i,int j,int[][] dp,int[][] arr){
         if(i==m-1 && j==n-1) return arr[i][j];
         if(i>=m || j>=n) return Integer.MAX_VALUE;
         if(dp[i][j]!=-1) return dp[i][j];
