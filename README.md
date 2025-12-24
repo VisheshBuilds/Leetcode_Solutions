@@ -35,6 +35,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1127-last-stone-weight) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -396,6 +397,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3790-fruits-into-baskets-ii](https://github.com/VisheshBuilds/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
