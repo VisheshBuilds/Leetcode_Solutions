@@ -3,10 +3,10 @@ class Solution {
         List<List<Integer>> ans=new ArrayList<>();
         Arrays.sort(arr);
         int n=arr.length;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n-3;i++){
             //remove duplicate
             if(i>0 && arr[i]==arr[i-1]) continue;
-            for(int j=i+1;j<n;j++){
+            for(int j=i+1;j<n-2;j++){
                 //remove duplicate
                 if(j>i+1 && arr[j]==arr[j-1]) continue;
                 int s=j+1,e=n-1;
