@@ -12,10 +12,19 @@ class Solution {
         }
         return min==Integer.MAX_VALUE? -1:min;
     }
-    public int reverse(int n){
-        String str=String.valueOf(n);
-        String rev=new StringBuilder(str).reverse().toString();
-        int num=Integer.valueOf(rev);
-        return num;
+    // public int reverse(int n){
+    //     String str=String.valueOf(n);
+    //     String rev=new StringBuilder(str).reverse().toString();
+    //     int num=Integer.valueOf(rev);
+    //     return num;
+    // }
+    public int reverse(int num) {
+        int ans = 0;
+        while (num > 0) {
+            int rem = num % 10;
+            num = num / 10;
+            ans = ans * 10 + rem;  
+        }
+        return ans;
     }
 }
