@@ -16,14 +16,15 @@ class Solution {
 
 
                 //METHOD 2 
-        int ans=0,mod=1000000007,count=0;
+        int mod=1000000007,count=0;
+        long ans=0;
         for(int i=0;i<s.length();i++){
             if(s.charAt(i)=='1'){
                 count++;
-                ans = (ans + count)%mod;
+                ans +=count;
             }
             else count=0;
         }
-        return ans;        
+        return (int)(ans%mod);        
     }
 }
