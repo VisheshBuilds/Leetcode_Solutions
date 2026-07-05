@@ -9,6 +9,7 @@ class Solution {
            ans.add(new ArrayList<>(temp));
            return;
         } 
+        if(s>n) return;
 
         for(int i=s;i<=n;i++){
             temp.add(i);
