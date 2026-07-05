@@ -5,7 +5,10 @@ class Solution {
         return ans;
     }
     public void helper(List<List<Integer>> ans,List<Integer> temp,int n,int k,int s){
-        if(temp.size()==k) ans.add(new ArrayList<>(temp));
+        if(temp.size()==k){
+           ans.add(new ArrayList<>(temp));
+           return;
+        } 
 
         for(int i=s;i<=n;i++){
             temp.add(i);
