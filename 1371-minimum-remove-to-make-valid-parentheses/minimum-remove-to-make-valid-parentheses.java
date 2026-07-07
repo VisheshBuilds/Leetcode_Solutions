@@ -3,20 +3,14 @@ class Solution {
         Stack<Character> st=new Stack<>();
         StringBuilder sb=new StringBuilder();
         for(Character ch: s.toCharArray()){
-            if(ch=='('){
-                st.push(ch);
-                sb.append(ch);
-            }
+            if(ch=='(')  st.push(ch);
             else if(ch==')'){
-                if(!st.isEmpty() && st.peek()=='('){
-                    st.pop();
-                    sb.append(ch);
-                }
+                if(st.isEmpty()) continue;
+                else st.pop();
             }
-            else {
-                sb.append(ch);
-            }
+            sb.append(ch);  
         }
+
         if(!st.isEmpty()){
         for(int i=sb.length()-1;i>=0;i--){
             if(sb.charAt(i)=='('){
@@ -26,11 +20,7 @@ class Solution {
             if(st.isEmpty()) break;
         }
         }
-        // int i=0;
-        // while(!st.isEmpty()){
-             
-        // }
-
+    
         return sb.toString();
     }
 }
