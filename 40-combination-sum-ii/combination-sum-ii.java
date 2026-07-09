@@ -7,7 +7,7 @@ class Solution {
     }
         public void helper(int s,List<List<Integer>> ans,int[] candidates,int target,List<Integer> temp){
         if(target==0){
-            if(ans.contains(temp)) return;
+            // if(ans.contains(temp)) return;
             ans.add(new ArrayList<>(temp));
             return;
         }
