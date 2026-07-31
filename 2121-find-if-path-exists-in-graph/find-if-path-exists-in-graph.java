@@ -24,7 +24,7 @@ class Solution {
                 if(!visited[ele]){
                     q.add(ele);
                     visited[ele]=true;
-                    if(front==e) return;
+                    if(ele==e) return;
                 }
             }
         }
