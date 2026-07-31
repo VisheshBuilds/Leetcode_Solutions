@@ -20,11 +20,11 @@ class Solution {
         while(!q.isEmpty()){
             int front=q.remove();
             visited[front]=true;
-            if(front==e) return;
             for(int ele:adj.get(front)){
                 if(!visited[ele]){
                     q.add(ele);
                     visited[ele]=true;
+                    if(front==e) return;
                 }
             }
         }
