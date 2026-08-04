@@ -6,12 +6,29 @@ class Solution {
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(!visit[i][j] && grid[i][j]=='1'){
-                    bfs(visit,grid,i,j);
+                    // bfs(visit,grid,i,j);
+                    dfs(visit,grid,i,j);
                     count++;
                 }
             }
         }
         return count;
+    }
+
+    public void dfs(boolean[][] visit,char[][] grid,int i,int j){
+        visit[i][j]=true;
+        if(i-1>=0 && grid[i-1][j]=='1' && visit[i-1][j]!=true){
+            dfs(visit,grid,i-1,j);
+        }
+        if(i+1<=grid.length-1 && grid[i+1][j]=='1' && visit[i+1][j]!=true){
+            dfs(visit,grid,i+1,j);
+        }
+        if(j-1>=0 && grid[i][j-1]=='1' && visit[i][j-1]!=true){
+            dfs(visit,grid,i,j-1);
+        }
+        if(j+1<=grid[0].length-1 && grid[i][j+1]=='1' && visit[i][j+1]!=true){
+            dfs(visit,grid,i,j+1);
+        }
     }
     class Pair{
         int row;
