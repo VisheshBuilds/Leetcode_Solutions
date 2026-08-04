@@ -10,8 +10,16 @@ class Solution {
             adj.get(b).add(a);
         }
         boolean[] visited=new boolean[n];
-        bfs(adj,s,e,visited);
+        // bfs(adj,s,e,visited);
+        dfs(adj,s,e,visited);
         return visited[e];
+    }
+    public void dfs(List<List<Integer>> adj,int s,int e,boolean[] visited){
+        visited[s]=true;
+        if(s==e) return;
+        for(int ele:adj.get(s)){
+            if(!visited[ele]) dfs(adj,ele,e,visited);
+        }
     }
     public void bfs(List<List<Integer>> adj,int s,int e,boolean[] visited){
         Queue<Integer> q=new LinkedList<>();
