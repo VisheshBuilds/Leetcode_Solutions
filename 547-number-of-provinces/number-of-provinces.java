@@ -1,40 +1,34 @@
 class Solution {
+    public int find(int a){
+        if(parent[a]==a) return a;
+        return find(parent[a]);
+    }
+    public void union(int a,int b){
+        int leadA=find(a);
+        int leadB=find(b);
+        if(leadA!=leadB){
+            parent[leadA]=leadB;
+        }
+    }
+    int[] parent;
     public int findCircleNum(int[][] isConnected) {
-        int n=isConnected.length,count=0;
-        boolean[] visited=new boolean[n];
-        for(int i=0;i<n;i++){
-            if(!visited[i]){
-                dfs(visited,i,isConnected);
-                count++;
-            }
-        }
-        return count;
-    }
-    public void dfs(boolean[] vis,int i,int[][] adj){
-        int n=adj.length;
-        vis[i]=true;
-        for(int j=0;j<n;j++){
-            if(adj[i][j]==1 && vis[j]==false){
-                dfs(vis,j,adj);
-            }
-        }
-        
-    }
+        int n=isConnected.length;
+        parent=new int[n+1];
 
-    public void bfs(boolean[] visited,int num,int[][] isConnected){
-        Queue<Integer> q=new LinkedList<>();
-        q.add(num);
-        visited[num]=true;
-        while(!q.isEmpty()){
-            int front=q.remove();
-            for(int i=0;i<visited.length;i++){
-                int val=isConnected[front][i];
-                if(!visited[i] && val!=0){
-                    q.add(i);
-                    visited[i]=true;
+        for(int i=1;i<=n;i++) parent[i]=i;
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(i!=j && isConnected[i][j]==1){
+                    union(i+1,j+1);
                 }
             }
         }
-        
+        int count=0;
+        for(int i=1;i<=n;i++){
+            if(parent[i]==i) count++;
+        }
+
+        return count;
     }
 }
