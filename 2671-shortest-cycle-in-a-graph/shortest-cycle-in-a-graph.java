@@ -16,12 +16,12 @@ class Solution {
             Arrays.fill(parent,-1);
             Arrays.fill(dist,-1);
 
-            Queue<Integer> pq=new LinkedList<>();
+            PriorityQueue<Integer> pq=new PriorityQueue<>();
             dist[src]=0;
             pq.offer(src);
 
             while(!pq.isEmpty()){
-                int top=pq.poll();
+                int top=pq.remove();
                 for(int ele:adj.get(top)){
                     if(dist[ele]==-1){
                         dist[ele]=dist[top]+1;
