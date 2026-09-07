@@ -36,7 +36,7 @@ class Solution {
         }
     }
     public int minCostConnectPoints(int[][] points) {
-        PriorityQueue<Triplet> pq=new PriorityQueue<>();
+        ArrayList<Triplet> list=new ArrayList<>();
         int sum=0,n=points.length;
         parent=new int[n];
         size=new int[n];
@@ -51,12 +51,13 @@ class Solution {
                 int x1=points[u][0],y1=points[u][1];
                 int x2=points[v][0],y2=points[v][1];
                 int dis=Math.abs(x1-x2)+Math.abs(y1-y2);
-                pq.add(new Triplet(u,v,dis));
+                list.add(new Triplet(u,v,dis));
             }
         }
+        Collections.sort(list);
 
-        while(pq.size()>0){
-            Triplet top=pq.remove();
+        for(int i=0;i<list.size();i++){
+            Triplet top=list.get(i);
             int node=top.node,parent=top.parent,dist=top.dist;
             if(find(node)!=find(parent)){
                 sum +=dist;
