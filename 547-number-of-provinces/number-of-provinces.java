@@ -7,15 +7,27 @@ class Solution {
         int leadA=find(a);
         int leadB=find(b);
         if(leadA!=leadB){
-            parent[leadA]=leadB;
+            if(size[leadA]>size[leadB]){
+                parent[leadB]=leadA;
+                size[leadA] +=size[leadB];
+            }
+            else{
+                parent[leadA]=leadB;
+                size[leadB] +=size[leadA];
+            }  
         }
     }
     int[] parent;
+    int[] size;
     public int findCircleNum(int[][] isConnected) {
         int n=isConnected.length;
         parent=new int[n+1];
+        size=new int[n+1];
 
-        for(int i=1;i<=n;i++) parent[i]=i;
+        for(int i=1;i<=n;i++){
+            parent[i]=i;
+            size[i]=1;
+        } 
 
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
