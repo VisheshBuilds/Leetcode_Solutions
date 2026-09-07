@@ -1,4 +1,26 @@
 class Solution {
+        int[] parent;
+    int[] size;
+    public int find(int a){
+        if(parent[a]==a) return a;
+        return parent[a]=find(parent[a]);
+    }
+    public boolean union(int a,int b){
+        a=find(a);
+        b=find(b);
+        if(a==b) return false;
+        else{
+            if(size[a]>size[b]){
+                parent[b]=a;
+                size[a]+=size[b];
+            }
+            else{
+                parent[a]=b;
+                size[b]+=size[a];
+            }
+        }
+        return true;
+    }
     class Triplet implements Comparable<Triplet>{
         int node;
         int parent;
@@ -15,23 +37,30 @@ class Solution {
     }
     public int minCostConnectPoints(int[][] points) {
         PriorityQueue<Triplet> pq=new PriorityQueue<>();
-        pq.add(new Triplet(0,-1,0));
         int sum=0,n=points.length;
-        boolean[] visit=new boolean[n];
+        parent=new int[n];
+        size=new int[n];
+
+        for(int i=0;i<n;i++){
+            parent[i]=i;
+            size[i]=1;
+        }
+
+        for(int u=0;u<n;u++){
+            for(int v=u+1;v<n;v++){
+                int x1=points[u][0],y1=points[u][1];
+                int x2=points[v][0],y2=points[v][1];
+                int dis=Math.abs(x1-x2)+Math.abs(y1-y2);
+                pq.add(new Triplet(u,v,dis));
+            }
+        }
 
         while(pq.size()>0){
             Triplet top=pq.remove();
             int node=top.node,parent=top.parent,dist=top.dist;
-            if(visit[node]==true) continue;
-            sum+=dist;
-            visit[node]=true;
-            for(int i=0;i<n;i++){
-                if(i==node || i==parent) continue;
-                if(visit[i]==true) continue;
-                int x1=points[node][0],y1=points[node][1];
-                int x2=points[i][0],y2=points[i][1];
-                int dis=Math.abs(x1-x2)+Math.abs(y1-y2);
-                pq.add(new Triplet(i,node,dis));
+            if(find(node)!=find(parent)){
+                sum +=dist;
+                union(node,parent);
             }
         }
         return sum;
