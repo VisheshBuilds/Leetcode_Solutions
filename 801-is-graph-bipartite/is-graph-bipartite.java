@@ -1,32 +1,55 @@
 class Solution {
-    public boolean isBipartite(int[][] graph) {
-        int n=graph.length;
-        int[] visit=new int[n];
-        Arrays.fill(visit,-1);
-       // 0 - blue,1- red
-        for(int i=0;i<n;i++){
-            if(visit[i]==-1 ){
-                visit[i]=0;
-                if( !bfs(graph,visit,i)) return false;
+    int[] parent;
+    int[] size;
+    boolean[] parity;
+    public int leader(int a){
+        if(parent[a]==a) return a;
+
+        return parent[a] =leader(parent[a]);
+    }
+    public void union(int u,int v){
+        int a=leader(u);
+        int b=leader(v);
+
+        if(a!=b){
+            if(size[a]>size[b]){
+                parent[b]=a;
+                size[a]+=size[b];
+
+                parity[v] = !parity[u];
+            }
+            else{
+                parent[a]=b;
+                size[b]+=a;
+
+                parity[u] =!parity[v];
             }
         }
-        return true;
     }
-    public boolean bfs(int[][] graph,int[] visit,int i){
-        
-        Queue<Integer> q=new LinkedList<>();
-        q.add(i);
-        while(!q.isEmpty()){
-            int front=q.remove();
-            int color=visit[front];
-            for(int ele:graph[front]){
-                if(visit[front]==visit[ele]) return false;
-                if(visit[ele]==-1){
-                    q.add(ele);
-                    visit[ele]=1-color;
+
+    public boolean isBipartite(int[][] graph) {
+        int n=graph.length;
+        parent=new int[n];
+        size=new int[n];
+        parity=new boolean[n];
+
+        for(int i=0;i<n;i++){
+            parent[i]=i;
+            size[i]=1;
+        }
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<graph[i].length;j++){
+                int u=i,v=graph[i][j];
+                if(v>u){
+                    if(leader(u)==leader(v)){ //cycle detected
+                       if(parity[u]==parity[v]) return false;
+                    }
+                    else union(u,v);
                 }
             }
         }
+
         return true;
     }
 }
