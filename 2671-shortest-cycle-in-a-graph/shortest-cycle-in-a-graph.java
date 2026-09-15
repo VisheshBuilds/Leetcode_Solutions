@@ -1,41 +1,51 @@
 class Solution {
+    class Pair{
+        int i;
+        int parent;
+        Pair(int i,int parent){
+            this.i=i;
+            this.parent=parent;
+        }
+    }
     public int findShortestCycle(int n, int[][] edges) {
+        int ans=Integer.MAX_VALUE,m=edges.length;
         ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
         for(int i=0;i<n;i++) adj.add(new ArrayList<>());
-        for(int i=0;i<edges.length;i++){
+
+        for(int i=0;i<m;i++){
             int u=edges[i][0],v=edges[i][1];
             adj.get(u).add(v);
             adj.get(v).add(u);
         }
-        int max=Integer.MAX_VALUE;
 
-        for(int src=0;src<n;src++){
-            int[] parent=new int[n];
-            int[] dist=new int[n];
+        for(int i=0;i<n;i++){
+            boolean[] visit=new boolean[n];
+            int[] count=new int[n];
+            Queue<Pair> q=new LinkedList<>();
 
-            Arrays.fill(parent,-1);
-            Arrays.fill(dist,-1);
+            count[i]=0;
+            visit[i]=true;
+            q.add(new Pair(i,-1));
 
-            PriorityQueue<Integer> pq=new PriorityQueue<>();
-            dist[src]=0;
-            pq.offer(src);
-
-            while(!pq.isEmpty()){
-                int top=pq.remove();
-                for(int ele:adj.get(top)){
-                    if(dist[ele]==-1){
-                        dist[ele]=dist[top]+1;
-                        parent[ele]=top;
-                        pq.offer(ele);
+            while(q.size()>0){
+                Pair top=q.remove();
+                int c=top.i,parent=top.parent;
+                for(int ele:adj.get(c)){
+                    if(ele==parent) continue;
+                    if(visit[ele]){
+                        ans=Math.min(ans,count[ele]+count[c]+1);
+                        continue;
                     }
-                    else if(ele!=parent[top]){
-                        int dis=dist[top]+dist[ele]+1;
-                        max=Math.min(max,dis);
-                    }
+                
+                    visit[ele]=true;
+                    count[ele]=count[c]+1;
+                    q.add(new Pair(ele,c));
+                    
                 }
             }
-            
         }
-        return max==Integer.MAX_VALUE ? -1:max;
+        
+        if(ans==Integer.MAX_VALUE) return -1;
+        return ans;
     }
 }
