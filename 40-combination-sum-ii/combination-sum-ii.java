@@ -7,7 +7,6 @@ class Solution {
     }
         public void helper(int s,List<List<Integer>> ans,int[] candidates,int target,List<Integer> temp){
         if(target==0){
-            // if(ans.contains(temp)) return;
             ans.add(new ArrayList<>(temp));
             return;
         }
@@ -17,7 +16,7 @@ class Solution {
         if(target<0) return;
         for(int i=s;i<candidates.length;i++){
             if (i > s && candidates[i] == candidates[i - 1]) continue;
-            if (candidates[i] > target) break; 
+            // if (candidates[i] > target) break; 
              temp.add(candidates[i]);
              helper(i+1,ans,candidates,target-candidates[i],temp);
              temp.remove(temp.size()-1);
