@@ -11,11 +11,7 @@ class Solution {
             int val=map.get(key);
             if(val==1) return -1;
             if(val%3 ==0) count+= val/3;
-            else if(val%3 ==1){
-                count = count + val/3-1+2;
-            }
             else count +=val/3 + 1;
-
         }
         return count;
     }
