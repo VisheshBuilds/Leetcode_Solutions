@@ -11,7 +11,7 @@ class Solution {
         }
         if(l>n || r>n) return;
 
-        if(l<=n) helper(ans,temp+'(',n,l+1,r);
+        if(l<n) helper(ans,temp+'(',n,l+1,r);
         if(r<l) helper(ans,temp+')',n,l,r+1);
     }
 }
