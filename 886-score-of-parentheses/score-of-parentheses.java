@@ -10,20 +10,17 @@ class Solution {
                 while(!st.peek().equals("(")){
                     sum +=Integer.valueOf(st.pop());
                 }
-                if(sum==0){
-                    st.pop();
-                    st.push("1");
-                }
-                else{
-                    st.pop();
-                    st.push(String.valueOf(2*sum));
-                }
+
+                st.pop();
+                if(sum==0) st.push("1");
+                else st.push(String.valueOf(2*sum));
+
             }
         }
+
         int sum=0;
-        while(!st.isEmpty()){
-            sum +=Integer.valueOf(st.pop());
-        }
+        while(!st.isEmpty()) sum +=Integer.valueOf(st.pop());
+        
         return sum;
     }
 }
